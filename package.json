@@ -1,0 +1,27 @@
+{
+  "name": "NodeTemplateProjectEJS",
+  "version": "1.0.0",
+  "description": "NodeTemplateProjectEJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avilaqdaniel/NodeTemplateProjectEJS.git"
+  },
+  "author": "Daniel Avila Quispe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avilaqdaniel/NodeTemplateProjectEJS.git/issues"
+  },
+  "homepage": "https://github.com/avilaqdaniel/NodeTemplateProjectEJS.git#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  }
+}
